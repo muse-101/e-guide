@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>故宮e覽 - NPM01 :: 故宮e覽</title>
+    <title>e-Guide :: 故宮e覽</title>
     <link>https://muse-101.github.io/e-guide/index.html</link>
-    <description>* (如果用手機) 按左上方「選單」圖 * 輸入展櫃上的「編號」 * 選擇下方「跳出選單」 * 或用左方「目錄」選擇 Powered by the NPM eLearn at “npm.elearn.hrd.gov.tw”</description>
+    <description></description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 01 Jul 2024 15:36:23 +0800</lastBuildDate>
